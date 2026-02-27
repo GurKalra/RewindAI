@@ -15,7 +15,7 @@ RewindAI bridges the gap by shifting the paradigm from purely "preventative" to 
 
 We built a system that assumes a breach will happen and focuses on **Zero-Loss Data Recovery**. If a malicious process bypasses traditional defenses and begins rapid encryption, RewindAI detects the behavioral anomaly in real-time, instantly suspends the attack, and autonomously rewinds the corrupted files to their exact pre-attack state using a secure micro-journal.
 
-![Streamlit Dashboard Live Demo](https://drive.google.com/file/d/1PYDxhJs4J9xEAwocuVHdoPt8Zm2b9TdC/view?usp=drive_link)
+[Streamlit Dashboard Live Demo](https://drive.google.com/file/d/1PYDxhJs4J9xEAwocuVHdoPt8Zm2b9TdC/view?usp=drive_link)
 
 ## How Are We Solving It? (System Architecture)
 RewindAI operates on a 4-layer autonomous defense architecture:
