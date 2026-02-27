@@ -1,0 +1,12 @@
+# Data Processing & Machine Learning
+numpy
+pandas
+scikit-learn
+
+# File System & OS Operations
+watchdog
+psutil
+
+# Dashboard & Visualization
+streamlit
+plotly
