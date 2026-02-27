@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+
+.streamlit/
+.DS_Store
+Thumbs.db
+
+data/status.txt
+
+data/vault/*
+data/shadow_root/*
+!data/vault/.gitkeep
+!data/shadow_root/.gitkeep
+
+# data/training/ransomware_behavior.csv
