@@ -3,7 +3,7 @@
 
 <img width="1831" height="787" alt="Screenshot_20260227_210606" src="https://github.com/user-attachments/assets/9e6e95df-94eb-45f4-b1cd-07aac5b4fd04" />
 
-* **"Don't just detect the breach. Rewind the damage."**
+> **"Don't just detect the breach. Rewind the damage."**
 
 ## The Issue: Why Are We Solving This?
 Ransomware operates at machine speed, often encrypting thousands of files in seconds. Traditional antivirus and Endpoint Detection and Response (EDR) systems rely on known malware signatures and focus purely on *blocking* the execution. 
