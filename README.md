@@ -3,6 +3,7 @@
 
 <img width="1831" height="787" alt="Screenshot_20260227_210606" src="https://github.com/user-attachments/assets/9e6e95df-94eb-45f4-b1cd-07aac5b4fd04" />
 
+[Streamlit Dashboard Live Demo](https://drive.google.com/file/d/1PYDxhJs4J9xEAwocuVHdoPt8Zm2b9TdC/view?usp=drive_link)
 > **"Don't just detect the breach. Rewind the damage."**
 
 ## The Issue: Why Are We Solving This?
@@ -14,8 +15,6 @@ The critical flaw? **By the time traditional EDR detects a zero-day behavioral a
 RewindAI bridges the gap by shifting the paradigm from purely "preventative" to "autonomous self-healing." 
 
 We built a system that assumes a breach will happen and focuses on **Zero-Loss Data Recovery**. If a malicious process bypasses traditional defenses and begins rapid encryption, RewindAI detects the behavioral anomaly in real-time, instantly suspends the attack, and autonomously rewinds the corrupted files to their exact pre-attack state using a secure micro-journal.
-
-[Streamlit Dashboard Live Demo](https://drive.google.com/file/d/1PYDxhJs4J9xEAwocuVHdoPt8Zm2b9TdC/view?usp=drive_link)
 
 ## How Are We Solving It? (System Architecture)
 RewindAI operates on a 4-layer autonomous defense architecture:
